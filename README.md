@@ -2,7 +2,7 @@
 
 - 🔭 Full time Third-year Postgraduate.
 - 🌱 Research interests: federated learning, continual leanring, edge computing and privacy protection.
-- 📫 How to reach me: [Homepage](https://home.fzhiy.net/) | [Zhihu](https://www.zhihu.com/people/ni-feng-88-10) | [https://blog.csdn.net/feng_zhiyu](CSDN) | [Email](fzhiy270@163.com).
+- 📫 How to reach me: [Homepage](https://home.fzhiy.net/) | [Zhihu](https://www.zhihu.com/people/ni-feng-88-10) | [CSDN](https://blog.csdn.net/feng_zhiyu) | [Email](fzhiy270@163.com).
 
 <!--
 **fzhiy/fzhiy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
