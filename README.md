@@ -1,4 +1,8 @@
-### Hi there 👋
+### Hi there, I am fzhiy.  👋
+
+- 🔭 Full time Third-year Postgraduate.
+- 🌱 Research interests: federated learning, continual leanring, edge computing and privacy protection.
+- 📫 How to reach me: [Homepage](https://home.fzhiy.net/) | [Zhihu](https://www.zhihu.com/people/ni-feng-88-10) | [https://blog.csdn.net/feng_zhiyu](CSDN) | [Email](fzhiy270@163.com).
 
 <!--
 **fzhiy/fzhiy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,6 +18,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=fzhiy)](https://github.com/fzhiy/github-readme-stats)
