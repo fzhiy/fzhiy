@@ -1,7 +1,7 @@
 ### Hi there, I am fzhiy.  👋
 
 - 🔭 Full-time first-year PhD student.
-- 🌱 Research interests: federated learning, continual leanring, edge computing and privacy protection.
+- 🌱 Research interests: federated learning, continual learning, and edge artificial intelligence.
 - 📫 How to reach me: [Homepage](https://home.fzhiy.net/) | [Zhihu](https://www.zhihu.com/people/ni-feng-88-10) | [CSDN](https://blog.csdn.net/feng_zhiyu) | <a href="mailto:fzhiy270@163.com">Email</a> | <a href="mailto:fy274@exeter.ac.uk">Email-UoE</a>.
 
 <!--
