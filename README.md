@@ -1,7 +1,7 @@
 ### Hi there, I am fzhiy.  👋
 
-- 🔭 Full-time second-year PhD student.
-- 🌱 Research interests: federated learning, continual learning, foundation models and edge artificial intelligence.
+- 🔭 Full-time PhD student.
+- 🌱 Research interests: Efficient AI, continual learning, foundation models and federated learning.
 - 📫 How to reach me: [Homepage](https://home.fzhiy.net/) | [Zhihu](https://www.zhihu.com/people/ni-feng-88-10) | <a href="mailto:fy274@exeter.ac.uk">Email</a>.
 
 <!--
